@@ -1,0 +1,13 @@
+name: Covid19
+version: ${project.version}
+main: me.evilterabite.covid19.Covid19
+api-version: 1.13
+authors: [evilterabite]
+description: brings the global 2020 pandemic COVID-19 into minecraft.
+commands:
+  cough:
+    description: allows you to cough on players
+    usage: /<command>
+  covidreload:
+    description:  reload COVID19
+    usage: /<command>

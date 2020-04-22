@@ -1,0 +1,20 @@
+##Config.yml
+
+
+#Join_Msg
+join_msg: true
+
+#Prefixes
+msg_prefix: "&7[&cCOVID-19&7]&r "
+infected_prefix: "&7[&cInfected&7] &r"
+
+#Messages
+now_sick_msg: "%prefix% &aYou have been infected."
+just_coughed: "%prefix% &aYou just coughed."
+first_case: "%prefix% &aYou are the first person to develop &cCOVID-19!"
+
+
+
+#Errors
+not_sick: "%prefix% &4You are not sick!"
+console_error: "Must be a player."
